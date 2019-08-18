@@ -1,0 +1,8 @@
+lab2/bin/*
+lab2/lib/*
+lab2/.vscode/*
+.vscode/*
+.metadata/*
+.metadata/.*
+.metadata
+lab1/*.class
